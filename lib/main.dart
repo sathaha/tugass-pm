@@ -283,8 +283,8 @@ class ProfileScreen extends StatelessWidget {
                 leading: CircleAvatar(
                   backgroundImage: NetworkImage("https://i1.sndcdn.com/artworks-000123105997-xrcnay-t500x500.jpg"),
                 ),
-                title: Text("Farabi Afgan Raja Mayeli"),
-                subtitle: Text("081284698002"),
+                title: Text("Satrio Nabil Azzami"),
+                subtitle: Text("081283121719"),
               ),
             ),
             Row(
